@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sd:songs xmlns:sd="http://home.cybermolle.dk/song/song.xsd">
+  <song id="1">
+    <title>Pris din konge, din forsoner</title>
+    <author>Tekst: H.F. Lyte 1834 / A. Guldhammer. Musik: John Goss</author>
+    <lyrics>Pris din konge, din forsoner,
+bøj dig for hans trone ned;
+med forløstes jubeltoner
+pris hans frelserkærlighed.
+Pris ham! Pris ham! Pris ham! Pris ham!
+Pris din Gud i evighed!
+</lyrics>
+    <lyrics>Pris ham! thi han er den samme,
+som da vore fædre stred;
+pris ham! hver en slægt og stamme,
+thi hans nåde varer ved.
+Pris ham! Pris ham! Pris ham! Pris ham!
+Pris din Gud i evighed!
+</lyrics>
+    <lyrics>Pris ham! han vil sig forbarme
+over os, som svage er,
+han med stærke faderarme
+letter byrden tung og svær.
+Pris ham! Pris ham! Pris ham! Pris ham!
+Pris din Gud i evighed!
+</lyrics>
+    <lyrics>Engle, hjælp os at ophøje
+ham, vor frelser og vor Gud.
+Sol og stjerner, I må bøje
+jer for ham i lysets skrud.
+Pris ham! Pris ham! Pris ham! Pris ham!
+Pris din Gud i evighed!
+</lyrics>
+  </song>
+  <song id="2">
+    <title>Kun én dag, ét øjeblik ad gangen</title>
+    <author>Tekst: Lina Sandell. Musik: O. Ahnfeldt</author>
+    <lyrics>Kun én dag, ét øjeblik ad gangen!
+Hvilken trøst for den forsagte ånd!
+Hvorfor skal mig uro holde fangen?
+Alting hviler i min Faders hånd.
+Han, som har for mig en moders hjerte,
+hver en dag jo også sende vil
+mig den lille del af fryd og smerte,
+som jeg netop trænger til.
+</lyrics>
+    <lyrics>Nær hos mig han vil mig altid lære
+særlig nåde for hver enkelt tid;
+hver en dags bekymring han vil bære,
+»kraft« og »råd« han kalder sig med flid.
+Han vil vogte sine får så kære,
+mætte sjælen ved sit nådebord.
+»Som din dag så skal din styrke være!«
+det er løftet i hans ord.
+</lyrics>
+    <lyrics>Hjælp mig da at hvile trygt og stille
+kun på dine løfter, Herre kær,
+og ej troens dybe fred forspilde,
+som i ordet kom mit hjerte nær!
+Når mit sind er af bekymring fangen,
+lær mig tage af din faderhånd
+kun én dag, ét øjeblik ad gangen
+med en stille, ydmyg ånd!
+</lyrics>
+  </song>
+  <song id="3">
+    <title>Above All</title>
+    <author>Tekst og musik: Paul Baloche, Lenny LeBlanc</author>
+    <lyrics>Above all powers
+Above all kings
+Above all nature and all created things
+Above all wisdom
+and all the ways of man
+You were here before the world began
+</lyrics>
+    <lyrics>Above all kingdoms
+Above all thrones
+Above all wonders
+the world has ever known
+Above all wealth
+and treasures of the earth
+There's no way to measure
+what You're worth
+</lyrics>
+    <lyrics>Crucified
+Laid behind the stone
+You lived to die
+Rejected and alone
+Like a rose trampled on the ground
+You took the fall
+And thought of me
+Above all
+</lyrics>
+  </song>
+  <song id="4">
+    <title>Al ære til dig</title>
+    <author></author>
+    <lyrics>Jeg priser dit fuldbragte værk,
+henter kraft fra din nåde,
+thi den gør mig stærk.
+Mine synder er slettet ud.
+</lyrics>
+    <lyrics>Thi som øst er fra vest
+er de borte fra mig,
+de er kastet i havet,
+du husker dem ej.
+Derfor gi'r jeg al ære til dig.
+</lyrics>
+    <lyrics>Er mine synder som skarlagen,
+de skal blive som sne.
+Jeg er renset ved blodet,
+ved troen på Ham.
+Derfor gi'r jeg al ære til dig.
+</lyrics>
+    <lyrics>Al ære til dig, Gud.
+Vi gi'r al ære til dig, Gud.
+Det skyldes ikke os selv,
+nej, nej, nej.
+Vi gi'r al ære til dig!
+</lyrics>
+  </song>  <!--
+
+<song>
+  <song id="-1">
+    <title>Some Title</title>
+    <author>Some author</author>
+    <lyrics>Jada jada jada
+</lyrics>
+    <lyrics>Jada jada jada
+</lyrics>
+  </song>
+</song>
+
+
+-->
+</sd:songs>
